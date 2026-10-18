@@ -43,7 +43,7 @@
 
 # 文档
 
-安装及使用：https://github.com/laolitongxue/Xray
+安装及使用：https://233boy.com/xray/xray-script/
 
 # 帮助
 
@@ -119,5 +119,5 @@ Usage: xray [options]... [args]...
 
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
 反馈问题) https://github.com/laolitongxue/xray/issues
-文档(doc) https://github.com/laolitongxue/Xray
+文档(doc) https://233boy.com/xray/xray-script/
 ```
